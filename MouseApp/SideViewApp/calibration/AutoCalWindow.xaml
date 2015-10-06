@@ -1,0 +1,12 @@
+﻿<Window x:Class="SideViewApp.AutoCalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SideViewApp"
+        mc:Ignorable="d"
+        Title="CalWindow" WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized" ResizeMode="NoResize" LostFocus="Window_LostFocus" KeyDown="Window_KeyDown" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Closing="Window_Closing" LostKeyboardFocus="Window_LostKeyboardFocus">
+    <Grid>
+        
+    </Grid>
+</Window>
